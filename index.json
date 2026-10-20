@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "keyrings.firefox",
+  "versions": [
+    {
+      "commit": "edee95caa2a74474f0eeeb7728bf49d788368c9a",
+      "tag": "",
+      "parsed_at": "2026-10-20T10:21:52.892568+00:00"
+    }
+  ]
+}
