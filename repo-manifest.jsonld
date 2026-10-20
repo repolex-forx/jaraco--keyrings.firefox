@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jaraco/keyrings.firefox/commit/edee95caa2a74474f0eeeb7728bf49d788368c9a",
       "git:hexsha": "edee95caa2a74474f0eeeb7728bf49d788368c9a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T10:21:52.892094+00:00"
     }
   ]
 }
