@@ -1,0 +1,7 @@
+[2026-10-20T10:21:02Z] === AST ITERATION 1 START | repo=jaraco/keyrings.firefox sha=edee95ca ===
+[2026-10-20T10:21:02Z] [iter=1] PHASE START: ast repo=jaraco/keyrings.firefox sha=edee95ca
+[2026-10-20T10:21:02Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T10:21:03Z] [iter=1] AST chunks built count=1 triples=9120
+[2026-10-20T10:21:03Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/edee95caa2a74474f0eeeb7728bf49d788368c9a/.complete
+[2026-10-20T10:21:03Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-10-20T10:21:03Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
